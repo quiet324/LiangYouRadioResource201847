@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180429",
-		"title": "共度家人临终岁月（5）最后的安排（嘉宾：宝文老师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180429.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201818/bf20180429/bf/bf180429.mp3",
-		"id": 1180429
-	},
-	{
 		"time": "20180505",
 		"title": "用圣经的教导防止“婚姻毕业”的潮流对家庭的伤害",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180505.mp3",
@@ -625,5 +614,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bf20181117/bf/bf181117.mp3",
 		"id": 1181117
+	},
+	{
+		"time": "20181118",
+		"title": "傅立德牧师根据圣经以房屋为例谈理想婚姻蓝图（6）屋顶──保护的原则；歌曲：《就是要爱我》、《为了爱》",
+		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf181118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bf20181118/bf/bf181118.mp3",
+		"id": 1181118
 	}
 ]
