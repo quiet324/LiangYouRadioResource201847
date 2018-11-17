@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180812",
-		"title": "智慧语录：马丁博士如何走出忧郁？神的叮咛我最爱：你人生中最宝贵的是什么？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180812.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/ee20180812/ee/ee180812.mp3",
-		"id": 29180812
-	},
-	{
 		"time": "20180813",
 		"title": "智慧语录：要相信上帝能使万事都互相效力，叫我们得益处；寻找生命的真光：超时空同居──我们如何拯救爱情？",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180813.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ee20181117/ee/ee181117.mp3",
 		"id": 29181117
+	},
+	{
+		"time": "20181118",
+		"title": "智慧语录：生命中的这三种人，才是真爱你的；拥抱小语：可以算命吗？你的叮咛我最爱：我们要切望主的再来",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ee20181118/ee/ee181118.mp3",
+		"id": 29181118
 	}
 ]
