@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180812",
-		"title": "不要计较（林前13:4-13）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180812.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/mw20180812/mw/mw180812.mp3",
-		"id": 30180812
-	},
-	{
 		"time": "20180813",
 		"title": "人生的狭窄之处（民22:21-35）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180813.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181117/mw/mw181117.mp3",
 		"id": 30181117
+	},
+	{
+		"time": "20181118",
+		"title": "上帝是我坚固保障（赛38:9-20）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/mw20181118/mw/mw181118.mp3",
+		"id": 30181118
 	}
 ]
