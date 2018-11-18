@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180813",
-		"title": "人生的狭窄之处（民22:21-35）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180813.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/mw20180813/mw/mw180813.mp3",
-		"id": 30180813
-	},
-	{
 		"time": "20180814",
 		"title": "背你自己的十字架（加5:24-6:10）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180814.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/mw20181118/mw/mw181118.mp3",
 		"id": 30181118
+	},
+	{
+		"time": "20181119",
+		"title": "同主儆醒（太26:36-46）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/mw20181119/mw/mw181119.mp3",
+		"id": 30181119
 	}
 ]
