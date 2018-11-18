@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "黑暗中的舞者：第十七章、家庭之锚；第十八章、与天使合唱-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180810.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/bc20180810/bc/bc180810.mp3",
-		"id": 10180810
-	},
-	{
 		"time": "20180813",
 		"title": "信心日引：看见神是什么意思（太5:8）；大阅读家：第八章、如何阅读一本书-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180813.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181116/bc/bc181116.mp3",
 		"id": 10181116
+	},
+	{
+		"time": "20181119",
+		"title": "信心日引：祈求神赐下怜悯（诗51:1）；俗世圣徒：第十九章、神学-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bc20181119/bc/bc181119.mp3",
+		"id": 10181119
 	}
 ]
