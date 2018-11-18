@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180810.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/gn20180810/gn/gn180810.mp3",
-		"id": 22180810
-	},
-	{
 		"time": "20180813",
 		"title": "电影的故事──红袍与黑衫",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180813.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181116/gn/gn181116.mp3",
 		"id": 22181116
+	},
+	{
+		"time": "20181119",
+		"title": "心灵透视镜",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/gn20181119/gn/gn181119.mp3",
+		"id": 22181119
 	}
 ]
