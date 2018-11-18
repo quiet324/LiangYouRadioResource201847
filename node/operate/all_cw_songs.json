@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "赞美旋律：海顿《惊愕交响曲》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180810.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/cw20180810/cw/cw180810.mp3",
-		"id": 51180810
-	},
-	{
 		"time": "20180813",
 		"title": "生命之歌：霍柏《求主掌舵》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180813.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181116/cw/cw181116.mp3",
 		"id": 51181116
+	},
+	{
+		"time": "20181119",
+		"title": "生命之歌：萧华德《倚靠永远的圣手》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181119/cw/cw181119.mp3",
+		"id": 51181119
 	}
 ]
