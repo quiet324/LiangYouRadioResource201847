@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180813",
-		"title": "信心日引：看见神是什么意思（太5:8）；大阅读家：第八章、如何阅读一本书-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180813.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/bc20180813/bc/bc180813.mp3",
-		"id": 10180813
-	},
-	{
 		"time": "20180814",
 		"title": "信心日引：神的能力（彼前1:4-5）；大阅读家：第八章、如何阅读一本书-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180814.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bc20181119/bc/bc181119.mp3",
 		"id": 10181119
+	},
+	{
+		"time": "20181120",
+		"title": "信心日引：保持内心的纯洁（太5:6）；俗世圣徒：第十九章、神学-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bc20181120/bc/bc181120.mp3",
+		"id": 10181120
 	}
 ]
