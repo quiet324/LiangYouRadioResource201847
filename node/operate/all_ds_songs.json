@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180814",
-		"title": "教牧新视野：教会双翼系统的四个动员点（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180814.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/ds20180814/ds/ds180814.mp3",
-		"id": 46180814
-	},
-	{
 		"time": "20180815",
 		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180815.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ds20181119/ds/ds181119.mp3",
 		"id": 46181119
+	},
+	{
+		"time": "20181120",
+		"title": "教牧新视野：婚姻与家庭的更新（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ds20181120/ds/ds181120.mp3",
+		"id": 46181120
 	}
 ]
