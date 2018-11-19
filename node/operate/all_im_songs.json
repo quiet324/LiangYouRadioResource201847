@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180813",
-		"title": "心磁场大平台：不同寻常的励志故事──只差一个月就一百岁的老人，居然刷新了一项游泳比赛的世界记录……一个以行乞为生的流浪汉突然爆红网络，转眼成为备受瞩目的音乐艺人……他们的成功为何如此神奇？这神奇的背后有着怎样的人生故事？",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180813.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/im20180813/im/im180813.mp3",
-		"id": 14180813
-	},
-	{
 		"time": "20180814",
 		"title": "曼曼成长记：小朋友闹矛盾了怎么办？──小朋友之间闹矛盾是常有的事，但聪明的父母会抓住机会，帮助孩子从中得到教训、积累经验、获得学习成长。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180814.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/im20181119/im/im181119.mp3",
 		"id": 14181119
+	},
+	{
+		"time": "20181120",
+		"title": "曼曼成长记：错误是最好的学习机会──犯错不要紧，谁人不犯错？不怕犯错，只怕犯了错不会反思，只要懂得反思，错误仍然是最好的学习机会。此原则对孩子、对家长、对教育都一样有效。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/im20181120/im/im181120.mp3",
+		"id": 14181120
 	}
 ]
