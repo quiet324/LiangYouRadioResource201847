@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180813",
-		"title": "亲情厨房：水果传（6）柠檬 ；与父母促膝谈：让我们聚在一起",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180813.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/up20180813/up/up180813.mp3",
-		"id": 20180813
-	},
-	{
 		"time": "20180814",
 		"title": "亲情儿童房：快乐教养实践77招儿──亲职教养根基；与父母促膝谈：拼字游戏",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180814.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/up20181119/up/up181119.mp3",
 		"id": 20181119
+	},
+	{
+		"time": "20181120",
+		"title": "情绪与真理（17）分析错误信念之操练篇（1）（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/up20181120/up/up181120.mp3",
+		"id": 20181120
 	}
 ]
