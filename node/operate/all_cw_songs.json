@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180814",
-		"title": "弹指之间：《你坐着为王》、《眼光》、《安静》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180814.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/cw20180814/cw/cw180814.mp3",
-		"id": 51180814
-	},
-	{
 		"time": "20180815",
 		"title": "心歌心曲：徐池（亚萨）《隐基底花园》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180815.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181120/cw/cw181120.mp3",
 		"id": 51181120
+	},
+	{
+		"time": "20181121",
+		"title": "心歌心曲：台湾走出埃及辅导协会《大海》、《一道潜流》、《泥巴里的珍珠》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181121/cw/cw181121.mp3",
+		"id": 51181121
 	}
 ]
