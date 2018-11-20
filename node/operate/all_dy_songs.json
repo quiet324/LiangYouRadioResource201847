@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180813",
-		"title": "好得无比，每一天：基督今日的主权（赛63:7）；职场转化（10）（主持：林诚）；我爱背金句：帖前4:7",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180813.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/dy20180813/dy/dy180813.mp3",
-		"id": 24180813
-	},
-	{
 		"time": "20180814",
 		"title": "好得无比，每一天：祂要做名实一致的主人（路6:46）；跟随耶稣的脚踪行：耶稣的“我是”（10）（主持：程蒙恩）；我爱背金句：帖前4:7",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180814.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181119/dy/dy181119.mp3",
 		"id": 24181119
+	},
+	{
+		"time": "20181120",
+		"title": "好得无比，每一天：廉价恩典（罗6:1-2）；马太福音说书（7）；我爱背金句：雅5:19-20",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181120.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181120/dy/dy181120.mp3",
+		"id": 24181120
 	}
 ]
