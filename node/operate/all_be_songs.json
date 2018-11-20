@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180815",
-		"title": "忠勤主仆——马可福音（19）一件美事与一件恶事（可14:1-42）（讲员：张得仁）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180815.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/be20180815/be/be180815.mp3",
-		"id": 36180815
-	},
-	{
 		"time": "20180816",
 		"title": "忠勤主仆——马可福音（20）彼得就哭了（可14:43-15:15）（讲员：张得仁）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180816.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/be20181120/be/be181120.mp3",
 		"id": 36181120
+	},
+	{
+		"time": "20181121",
+		"title": "信心行为——雅各书（14）不与世俗为友（雅4:4-6）（讲员：陈灵新）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/be20181121/be/be181121.mp3",
+		"id": 36181121
 	}
 ]
