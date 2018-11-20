@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180814",
-		"title": "为神建立家室：丈夫如何对待妻子",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180814.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/ut20180814/ut/ut180814.mp3",
-		"id": 18180814
-	},
-	{
 		"time": "20180815",
 		"title": "为神建立家室：寻求和睦",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180815.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ut20181120/ut/ut181120.mp3",
 		"id": 18181120
+	},
+	{
+		"time": "20181121",
+		"title": "为神建立家室：神对西门的呼召",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ut20181121/ut/ut181121.mp3",
+		"id": 18181121
 	}
 ]
