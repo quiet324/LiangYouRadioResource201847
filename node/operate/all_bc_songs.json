@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180815",
-		"title": "信心日引：傲慢与绝望之间（雅4:6）；大阅读家：第八章、如何阅读一本书-3",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180815.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/bc20180815/bc/bc180815.mp3",
-		"id": 10180815
-	},
-	{
 		"time": "20180816",
 		"title": "信心日引：绝对的信心（加3:11）；大阅读家：第九章、文学就是人生-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180816.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bc20181121/bc/bc181121.mp3",
 		"id": 10181121
+	},
+	{
+		"time": "20181122",
+		"title": "信心日引：忧伤痛悔的心（诗51:17）；俗世圣徒：第二十章、死亡-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181122.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bc20181122/bc/bc181122.mp3",
+		"id": 10181122
 	}
 ]
