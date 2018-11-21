@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180815",
-		"title": "与年轻人谈人生：论事奉的标竿",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180815.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/pb20180815/pb/pb180815.mp3",
-		"id": 44180815
-	},
-	{
 		"time": "20180816",
 		"title": "与年轻人谈人生：罪疚感",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180816.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/pb20181121/pb/pb181121.mp3",
 		"id": 44181121
+	},
+	{
+		"time": "20181122",
+		"title": "圣经都是有益的：读经与祈祷（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181122.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/pb20181122/pb/pb181122.mp3",
+		"id": 44181122
 	}
 ]
