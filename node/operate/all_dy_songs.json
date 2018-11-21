@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180814",
-		"title": "好得无比，每一天：祂要做名实一致的主人（路6:46）；跟随耶稣的脚踪行：耶稣的“我是”（10）（主持：程蒙恩）；我爱背金句：帖前4:7",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180814.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/dy20180814/dy/dy180814.mp3",
-		"id": 24180814
-	},
-	{
 		"time": "20180815",
 		"title": "好得无比，每一天：报仇‧压抑‧赦宥（太6:14-15）；建立生活的基石（10）（主持：刘芳）；我爱背金句：帖前4:7",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180815.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181120/dy/dy181120.mp3",
 		"id": 24181120
+	},
+	{
+		"time": "20181121",
+		"title": "好得无比，每一天：恩典：我所需的回应（来4:16）；马太福音说书（8）；我爱背金句：雅5:19-20",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181121.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181121/dy/dy181121.mp3",
+		"id": 24181121
 	}
 ]
