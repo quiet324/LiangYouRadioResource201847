@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180815",
-		"title": "心歌心曲：徐池（亚萨）《隐基底花园》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180815.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/cw20180815/cw/cw180815.mp3",
-		"id": 51180815
-	},
-	{
 		"time": "20180816",
 		"title": "来吧赞美：《我要向高山举目》、《主耶稣我羡慕活在你面前》、《更加甘甜》、《愿你裂天而降》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180816.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181121/cw/cw181121.mp3",
 		"id": 51181121
+	},
+	{
+		"time": "20181122",
+		"title": "来吧赞美：《主恩典》、《献上感恩》、《你为何拣选我》、《恩典之路》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181122.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181122/cw/cw181122.mp3",
+		"id": 51181122
 	}
 ]
