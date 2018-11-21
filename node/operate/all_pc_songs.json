@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180816",
-		"title": "巨人的秘密：战国秦国官员甘罗（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180816.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/pc20180816/pc/pc180816.mp3",
-		"id": 17180816
-	},
-	{
 		"time": "20180817",
 		"title": "皮小弟与妙阿姨：别当中山狼",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180817.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/pc20181121/pc/pc181121.mp3",
 		"id": 17181121
+	},
+	{
+		"time": "20181122",
+		"title": "巨人的秘密：波兰物理化学家玛丽亚斯克洛道斯卡（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181122.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/pc20181122/pc/pc181122.mp3",
+		"id": 17181122
 	}
 ]
