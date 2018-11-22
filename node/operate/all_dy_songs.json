@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180815",
-		"title": "好得无比，每一天：报仇‧压抑‧赦宥（太6:14-15）；建立生活的基石（10）（主持：刘芳）；我爱背金句：帖前4:7",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180815.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/dy20180815/dy/dy180815.mp3",
-		"id": 24180815
-	},
-	{
 		"time": "20180816",
 		"title": "好得无比，每一天：怀恨的沉重代价（西3:13）；教会的种子（10）（主持：万峰）；我爱背金句：帖前4:7",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180816.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181121/dy/dy181121.mp3",
 		"id": 24181121
+	},
+	{
+		"time": "20181122",
+		"title": "好得无比，每一天：恩典的对头（多3:5）；马太福音说书（9）；我爱背金句：雅5:19-20",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181122.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/dy20181122/dy/dy181122.mp3",
+		"id": 24181122
 	}
 ]
