@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180816",
-		"title": "来吧赞美：《我要向高山举目》、《主耶稣我羡慕活在你面前》、《更加甘甜》、《愿你裂天而降》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180816.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/cw20180816/cw/cw180816.mp3",
-		"id": 51180816
-	},
-	{
 		"time": "20180817",
 		"title": "赞美旋律：史蒂芬．佛斯特之《有明亮棕发的珍妮》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180817.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181122/cw/cw181122.mp3",
 		"id": 51181122
+	},
+	{
+		"time": "20181123",
+		"title": "赞美旋律：贝多芬《第九号交响曲》第四乐章（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181123.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/cw20181123/cw/cw181123.mp3",
+		"id": 51181123
 	}
 ]
