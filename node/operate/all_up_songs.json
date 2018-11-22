@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180816",
-		"title": "亲情健身房：无器械健身（10）大腿肌肉；与父母促膝谈：和琼依在一起的日子",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180816.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/up20180816/up/up180816.mp3",
-		"id": 20180816
-	},
-	{
 		"time": "20180817",
 		"title": "教导儿女智财教育：第五课、回馈社会（上）储蓄的动机",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180817.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/up20181122/up/up181122.mp3",
 		"id": 20181122
+	},
+	{
+		"time": "20181123",
+		"title": "情绪与真理（20）心意更新而变化（2）（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181123.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/up20181123/up/up181123.mp3",
+		"id": 20181123
 	}
 ]
