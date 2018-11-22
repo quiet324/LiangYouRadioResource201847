@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180816",
-		"title": "平衡的时间表",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180816.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/it20180816/it/it180816.mp3",
-		"id": 41180816
-	},
-	{
 		"time": "20180817",
 		"title": "健康的身体",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180817.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/it20181122/it/it181122.mp3",
 		"id": 41181122
+	},
+	{
+		"time": "20181123",
+		"title": "神的旨意：神对你的计划（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181123.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/it20181123/it/it181123.mp3",
+		"id": 41181123
 	}
 ]
