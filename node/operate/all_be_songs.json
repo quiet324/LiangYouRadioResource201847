@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180818",
-		"title": "荣耀职事——哥林多后书（1）导言：特点与纲要（讲员：姚谦）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180818.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/be20180818/be/be180818.mp3",
-		"id": 36180818
-	},
-	{
 		"time": "20180819",
 		"title": "荣耀职事——哥林多后书（2）苦难与安慰（林后1:1-22）（讲员：姚谦）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180819.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/be20181123/be/be181123.mp3",
 		"id": 36181123
+	},
+	{
+		"time": "20181124",
+		"title": "信心行为——雅各书（17）主若愿意（雅4:13-17）（讲员：陈灵新）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181124.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/be20181124/be/be181124.mp3",
+		"id": 36181124
 	}
 ]
