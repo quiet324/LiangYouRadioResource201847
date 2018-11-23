@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180818",
-		"title": "学道篇：研经与释经──“教训”经文解释",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180818.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201833/ynf20180818/ynf/ynf180818.mp3",
-		"id": 58180818
-	},
-	{
 		"time": "20180819",
 		"title": "学道篇：圣经与修辞──“字面”与“灵意”",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180819.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ynf20181123/ynf/ynf181123.mp3",
 		"id": 58181123
+	},
+	{
+		"time": "20181124",
+		"title": "学道篇：研经与释经",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181124.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/ynf20181124/ynf/ynf181124.mp3",
+		"id": 58181124
 	}
 ]
