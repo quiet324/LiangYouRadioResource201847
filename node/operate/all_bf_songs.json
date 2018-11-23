@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180505",
-		"title": "用圣经的教导防止“婚姻毕业”的潮流对家庭的伤害",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180505.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201818/bf20180505/bf/bf180505.mp3",
-		"id": 1180505
-	},
-	{
 		"time": "20180506",
 		"title": "以圣经的教导建立家庭，避免陷入“婚姻毕业”的错谬",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180506.mp3",
@@ -625,5 +614,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bf20181118/bf/bf181118.mp3",
 		"id": 1181118
+	},
+	{
+		"time": "20181124",
+		"title": "夏炎牧师谈：探索兴趣（1）；歌曲：《奶粉与便当》、《明白爱》",
+		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf181124.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201847/bf20181124/bf/bf181124.mp3",
+		"id": 1181124
 	}
 ]
